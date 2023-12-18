@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "icon": "img/yamaha_blue.ico",
+  "galleryBanner": {
+    "color": "#050180",
+    "theme": "dark"
+  },
   "categories": [
     "Other"
   ],
