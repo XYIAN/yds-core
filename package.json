@@ -6,6 +6,9 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "url": "https://github.com/XYIAN/yds-core.git"
+  },
   "icon": "img/yamaha_blue.ico",
   "galleryBanner": {
     "color": "#050180",
