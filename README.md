@@ -1,3 +1,9 @@
+<p align="center">
+  <a href=https://www.yamahamotorsports.com>
+    <img src='./images/y2.jpg' alt='yamaha logo blue'/>
+  </a>
+</p>
+
 # YDS CORE Ofiicial Extension
 
 ## Features
