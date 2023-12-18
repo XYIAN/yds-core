@@ -1,6 +1,7 @@
 {
   "name": "yds-core",
-  "displayName": "yds-core",
+  "displayName": "YDS CORE",
+  "publisher": "YAMAHA",
   "description": "Core YDS functionality, settings, keybindings and commands.  - intended to be used in tandem with Yamaha Extension Pack (and yds-snippets) ",
   "version": "0.0.1",
   "engines": {
