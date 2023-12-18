@@ -1,8 +1,8 @@
 {
   "name": "yds-core",
-  "displayName": "YDS CORE",
-  "description": "YDS CORE Extension (recommended to download YDS Extension Pack first)",
-  "version": "0.0.2",
+  "displayName": "yds-core",
+  "description": "Core YDS functionality, settings, keybindings and commands.  - intended to be used in tandem with Yamaha Extension Pack (and yds-snippets) ",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "yds-core.welcome",
-        "title": "YAMAHA"
+        "command": "yds-core.helloWorld",
+        "title": "Hello World"
       }
     ]
   },
@@ -30,11 +30,6 @@
     "lint": "eslint src --ext ts",
     "test": "vscode-test"
   },
-  "galleryBanner": {
-    "color": "#0700c7",
-    "theme": "dark"
-  },
-  "icon": "img/yamaha.ico",
   "devDependencies": {
     "@types/vscode": "^1.85.0",
     "@types/mocha": "^10.0.6",

@@ -1,45 +1,71 @@
-<p align="center">
-  <a href=https://www.yamahamotorsports.com>
-    <img src='./images/y2.jpg' alt='yamaha logo blue'/>
-  </a>
-</p>
+# yds-core README
 
-# YDS CORE Ofiicial Extension
+This is the README for your extension "yds-core". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
-- tba
+Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+
+For example if there is an image subfolder under your extension project workspace:
+
+\!\[feature X\]\(images/feature-x.png\)
+
+> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Requirements
 
-- typescript
+If you have any requirements or dependencies, add a section describing those and how to install and configure them.
 
 ## Extension Settings
 
+Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+
+For example:
+
+This extension contributes the following settings:
+
+* `myExtension.enable`: Enable/disable this extension.
+* `myExtension.thing`: Set to `blah` to do something.
+
 ## Known Issues
 
-None
+Calling out known issues can help limit users opening duplicate issues against your extension.
 
 ## Release Notes
 
-tba
+Users appreciate release notes as you update your extension.
 
-### Contributors ✨
+### 1.0.0
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+Initial release of ...
 
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href=https://www.linkedin.com/in/kxdilbeck/><img src=https://media.licdn.com/dms/image/C5603AQE80kHro8-3dA/profile-displayphoto-shrink_100_100/0/1636953516875?e=1705536000&v=beta&t=V7DotdQ6n1Ym1_HnoSnrnDMfoNzfHSAhFNEx6dTX0RE width="100px;" alt="B2D1"/><br /><sub><b>Kyle Dilbeck</b></sub></a><br /><a href=https://github.com/XYIAN/yamaha-extensionPack/issues title="Developer">⚡</a></td>
-    <!-- <td align="center"><a href=https://www.linkedin.com/in/sanjay-kumar-katta-10231991/><img src=https://media.licdn.com/dms/image/C4E03AQFYUZs1aXkRaA/profile-displayphoto-shrink_100_100/0/1579751761153?e=1705536000&v=beta&t=x7L576FWE4RQ8oKPIorvnSy6T3poxNGjUMHUzPfJ_cc width="100px;" alt="Sanjay"/><br /><sub><b>Sanjay Katta</b></sub></a><br /><a href=https://github.com/XYIAN/yamaha-extensionPack/issues title="Developer">⚡</a></td>
-    <td align="center"><a href=https://yamaha-motor.com><img src=https://www.yamahamotorsports.com/media/images/icons/yms_logo.png width="100px;" alt="Yamaha logo"/><br /><sub><b>Elliot Spall</b></sub></a><br /></td> -->
-  </tr>
- 
-</table>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-## Thanks
-<a href=https://www.yamaha.com/><img src=https://yamaha-motor.com/images/mock-homepage/homepage_accessories_desktop_bkg_C.png /></a>
+### 1.0.1
+
+Fixed issue #.
+
+### 1.1.0
+
+Added features X, Y, and Z.
+
+---
+
+## Following extension guidelines
+
+Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
+
+* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
+
+## Working with Markdown
+
+You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+
+* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
+* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
+* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+
+## For more information
+
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+**Enjoy!**
