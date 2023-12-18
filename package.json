@@ -30,6 +30,11 @@
     "lint": "eslint src --ext ts",
     "test": "vscode-test"
   },
+  "galleryBanner": {
+    "color": "#0700c7",
+    "theme": "dark"
+  },
+  "icon": "img/yamaha.ico",
   "devDependencies": {
     "@types/vscode": "^1.85.0",
     "@types/mocha": "^10.0.6",
