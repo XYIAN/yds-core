@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-blue.svg?style=flat-square)](#contributors-) ![Commands](https://img.shields.io/badge/Custom_Commands-1-red.svg?style=flat-square)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-blue.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=YAMAHA.yds-core#:~:text=Motor%20Corperation%20USA-,Contributors,-%E2%9C%A8) ![Commands](https://img.shields.io/badge/Custom_Commands-1-red.svg?style=flat-square)
 
 # YDS CORE for VSC
 
