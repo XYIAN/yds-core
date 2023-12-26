@@ -3,7 +3,7 @@
   "displayName": "YDS CORE",
   "publisher": "YAMAHA",
   "description": "Core YDS functionality, settings, keybindings and commands.  - intended to be used in tandem with Yamaha Extension Pack (and yds-snippets) ",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.85.0"
   },
